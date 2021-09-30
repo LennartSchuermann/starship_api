@@ -9,6 +9,7 @@
         "sub-flights": 0,
         "orb-flights":0,
         "landings": 0,
+        "starship_nr": 20,
         "img": "https://storage.googleapis.com/nextspaceflight/media/Booster_4.jpg"
     },
     {
@@ -21,10 +22,11 @@
         "sub-flights": 0,
         "orb-flights":0,
         "landings": 0,
+        "starship_nr": 21,
         "img": null
     },
     {
-        "serialnumber": "B4",
+        "serialnumber": "B6",
         "status": "Under Construction",
         "cryo_proof": 0,
         "static_fire": 0,
@@ -33,6 +35,7 @@
         "sub-flights": 0,
         "orb-flights":0,
         "landings": 0,
+        "starship_nr": 22,
         "img": null
     }
 ]
