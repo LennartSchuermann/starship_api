@@ -8,7 +8,8 @@
         "location": "Orbital Launch Pad",
         "sub-flights": 0,
         "orb-flights":0,
-        "landings": 0
+        "landings": 0,
+        "img": "https://storage.googleapis.com/nextspaceflight/media/Booster_4.jpg"
     },
     {
         "serialnumber": "B5",
@@ -19,7 +20,8 @@
         "location": "Highbay",
         "sub-flights": 0,
         "orb-flights":0,
-        "landings": 0
+        "landings": 0,
+        "img": null
     },
     {
         "serialnumber": "B4",
@@ -30,6 +32,7 @@
         "location": "Build Site",
         "sub-flights": 0,
         "orb-flights":0,
-        "landings": 0
+        "landings": 0,
+        "img": null
     }
 ]
