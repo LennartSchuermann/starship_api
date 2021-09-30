@@ -19,7 +19,7 @@
         "status": "Under Construction",
         "cryo_proof": 0,
         "static_fire": 0,
-        "raptors": 15,
+        "raptors": 0,
         "raptors_vac": 0,
         "location": "Build Site",
         "heatshield_installed": false,
