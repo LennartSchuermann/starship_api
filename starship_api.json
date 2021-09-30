@@ -11,7 +11,8 @@
         "sub-flights": 0,
         "orb-flights":0,
         "landings": 0,
-        "booster_nr": 4
+        "booster_nr": 4,
+        "img": "https://storage.googleapis.com/nextspaceflight/media/ship_20.jpg"
     },
     {
         "serialnumber": "S21",
@@ -25,7 +26,8 @@
         "sub-flights": 0,
         "orb-flights":0,
         "landings": 0,
-        "booster_nr": 5
+        "booster_nr": 5,
+        "img": null
     },
     {
         "serialnumber": "S22",
@@ -39,6 +41,7 @@
         "sub-flights": 0,
         "orb-flights":0,
         "landings": 0,
-        "booster_nr": 6
+        "booster_nr": 6,
+        "img": null
     }
 ]
