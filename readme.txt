@@ -1,4 +1,4 @@
-Release:30.09.21 - [Data-Update: 24.09.21]
+Release:30.09.21 - [Last Data-Update: 17.10.21]
 This API is only for the "Launch"-Application. Using it for your purpose without permission will not be tolerated.
 
 Application: 
