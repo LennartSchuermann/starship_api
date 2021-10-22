@@ -3,7 +3,7 @@
         "serialnumber": "S20",
         "status": "Testing",
         "cryo_proof": 2,
-        "static_fire": 0,
+        "static_fire": 1,
         "raptors": 1,
         "raptors_vac": 1,
         "location": "Pad B",
