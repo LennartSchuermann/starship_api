@@ -2,9 +2,9 @@
     {
         "serialnumber": "S20",
         "status": "Testing",
-        "cryo_proof": 2,
-        "static_fire": 1,
-        "raptors": 1,
+        "cryo_proof": 1,
+        "static_fire": 2,
+        "raptors": 3,
         "raptors_vac": 1,
         "location": "Pad B",
         "heatshield_installed": true,
