@@ -5,7 +5,7 @@
         "cryo_proof": 1,
         "static_fire": 2,
         "raptors": 3,
-        "raptors_vac": 1,
+        "raptors_vac": 2,
         "location": "Pad B",
         "heatshield_installed": true,
         "sub-flights": 0,
@@ -42,6 +42,36 @@
         "orb-flights":0,
         "landings": 0,
         "booster_nr": 6,
+        "img": null
+    }
+    {
+        "serialnumber": "S23",
+        "status": "First Parts Spotted",
+        "cryo_proof": 0,
+        "static_fire": 0,
+        "raptors": 0,
+        "raptors_vac": 0,
+        "location": "Build Site",
+        "heatshield_installed": false,
+        "sub-flights": 0,
+        "orb-flights":0,
+        "landings": 0,
+        "booster_nr": 7,
+        "img": null
+    }
+{
+        "serialnumber": "S24",
+        "status": "First Parts Spotted",
+        "cryo_proof": 0,
+        "static_fire": 0,
+        "raptors": 0,
+        "raptors_vac": 0,
+        "location": "Build Site",
+        "heatshield_installed": false,
+        "sub-flights": 0,
+        "orb-flights":0,
+        "landings": 0,
+        "booster_nr": 8,
         "img": null
     }
 ]
