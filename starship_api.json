@@ -43,7 +43,7 @@
         "landings": 0,
         "booster_nr": 6,
         "img": null
-    }
+    },
     {
         "serialnumber": "S23",
         "status": "First Parts Spotted",
@@ -58,8 +58,8 @@
         "landings": 0,
         "booster_nr": 7,
         "img": null
-    }
-{
+    },
+    {
         "serialnumber": "S24",
         "status": "First Parts Spotted",
         "cryo_proof": 0,
