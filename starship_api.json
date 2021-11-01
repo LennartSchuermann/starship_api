@@ -5,7 +5,7 @@
         "cryo_proof": 1,
         "static_fire": 2,
         "raptors": 3,
-        "raptors_vac": 2,
+        "raptors_vac": 3,
         "location": "Pad B",
         "heatshield_installed": true,
         "sub-flights": 0,
