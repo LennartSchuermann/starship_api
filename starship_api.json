@@ -3,7 +3,7 @@
         "serialnumber": "S20",
         "status": "Testing",
         "cryo_proof": 1,
-        "static_fire": 2,
+        "static_fire": 3,
         "raptors": 3,
         "raptors_vac": 3,
         "location": "Pad B",
@@ -12,7 +12,7 @@
         "orb-flights":0,
         "landings": 0,
         "booster_nr": 4,
-        "img": "https://storage.googleapis.com/nextspaceflight/media/ship_20.jpg"
+        "img": "https://pbs.twimg.com/media/FEBFQ9_UUAgv0LQ?format=jpg&name=4096x4096"
     },
     {
         "serialnumber": "S21",
