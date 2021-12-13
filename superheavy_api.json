@@ -5,7 +5,7 @@
         "cryo_proof": 0,
         "static_fire": 0,
         "raptors": 29,
-        "location": "Landing Pad",
+        "location": "Orbital Launch Pad",
         "sub-flights": 0,
         "orb-flights":0,
         "landings": 0,
@@ -14,7 +14,7 @@
     },
     {
         "serialnumber": "B5",
-        "status": "Under Construction",
+        "status": "Display Site Scrapped",
         "cryo_proof": 0,
         "static_fire": 0,
         "raptors": 0,
@@ -27,7 +27,7 @@
     },
     {
         "serialnumber": "B6",
-        "status": "Under Construction",
+        "status": "Highbay Test Tank",
         "cryo_proof": 0,
         "static_fire": 0,
         "raptors": 0,
@@ -35,7 +35,7 @@
         "sub-flights": 0,
         "orb-flights":0,
         "landings": 0,
-        "starship_nr": 22,
+        "starship_nr": 0,
         "img": null
     },
     {
@@ -48,7 +48,7 @@
         "sub-flights": 0,
         "orb-flights":0,
         "landings": 0,
-        "starship_nr": 23,
+        "starship_nr": 22,
         "img": null
     }
 ]
