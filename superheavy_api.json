@@ -2,7 +2,7 @@
     {
         "serialnumber": "B4",
         "status": "Testing",
-        "cryo_proof": 2,
+        "cryo_proof": 3,
         "static_fire": 0,
         "raptors": 29,
         "location": "Orbital Launch Pad",
