@@ -26,7 +26,7 @@
         "sub-flights": 0,
         "orb-flights":0,
         "landings": 0,
-        "booster_nr": 5,
+        "booster_nr": 7,
         "img": "https://pbs.twimg.com/media/FE_InEVWUAUJvSc?format=jpg&name=4096x4096"
     },
     {
@@ -41,7 +41,7 @@
         "sub-flights": 0,
         "orb-flights":0,
         "landings": 0,
-        "booster_nr": 6,
+        "booster_nr": 8,
         "img": null
     },
     {
@@ -56,7 +56,7 @@
         "sub-flights": 0,
         "orb-flights":0,
         "landings": 0,
-        "booster_nr": 7,
+        "booster_nr": 9,
         "img": null
     },
     {
@@ -71,7 +71,7 @@
         "sub-flights": 0,
         "orb-flights":0,
         "landings": 0,
-        "booster_nr": 8,
+        "booster_nr": 10,
         "img": null
     }
 ]
