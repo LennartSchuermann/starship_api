@@ -1,0 +1,24 @@
+[
+    {
+        "serialnumber": "STest",
+        "status": "Testing",
+        "cryo_proof": 1,
+        "static_fire": 4,
+        "raptors": "3/3",
+        "raptors_vac": "2/3",
+        "location": "Launch Site",
+        "heatshield_installed": true,
+        "sub-flights": 0,
+        "orb-flights":0,
+        "landings": 0,
+        "booster_nr": 4,
+        "img": "https://pbs.twimg.com/media/FEBFQ9_UUAgv0LQ?format=jpg&name=4096x4096",
+        "img_source": "by SpaceX",
+        "parts": [false, true, true, true, false, true],
+        "heatshielded": [false, true, true, true, false, true],
+        "raptor_config": {
+            "vac": [true, true, false],
+            "sea": [true, true, false]
+        }
+    }
+]
