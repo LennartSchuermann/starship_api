@@ -12,7 +12,14 @@
         "orb-flights":0,
         "landings": 0,
         "booster_nr": 4,
-        "img": "https://pbs.twimg.com/media/FEBFQ9_UUAgv0LQ?format=jpg&name=4096x4096"
+        "img": "https://pbs.twimg.com/media/FEBFQ9_UUAgv0LQ?format=jpg&name=4096x4096",
+        "img_source": "by SpaceX",
+        "parts": [false, true, true, true, false, true],
+        "heatshielded": [false, true, true, true, false, true],
+        "raptor_config": {
+            "vac": [true, true, false],
+            "sea": [true, true, false]
+        }
     },
     {
         "serialnumber": "S21",
@@ -27,7 +34,14 @@
         "orb-flights":0,
         "landings": 0,
         "booster_nr": 7,
-        "img": "https://pbs.twimg.com/media/FE_InEVWUAUJvSc?format=jpg&name=4096x4096"
+        "img": "https://pbs.twimg.com/media/FE_InEVWUAUJvSc?format=jpg&name=4096x4096",
+        "img_source": "by SpaceX",
+        "parts": [false, false, false, false, false, false],
+        "heatshielded": [false, true, true, true, false, false],
+        "raptor_config": {
+            "vac": [false, false, false],
+            "sea": [false, false, false]
+        }
     },
     {
         "serialnumber": "S22",
@@ -42,7 +56,14 @@
         "orb-flights":0,
         "landings": 0,
         "booster_nr": 8,
-        "img": null
+        "img": null,
+        "img_source": "by SpaceX",
+        "parts": [false, false, false, false, false, false],
+        "heatshielded": [false, true, true, true, false, false],
+        "raptor_config": {
+            "vac": [false, false, false],
+            "sea": [false, false, false]
+        }
     },
     {
         "serialnumber": "S23",
@@ -57,7 +78,14 @@
         "orb-flights":0,
         "landings": 0,
         "booster_nr": 9,
-        "img": null
+        "img": null,
+        "img_source": "by SpaceX",
+        "parts": [false, false, false, false, false, false],
+        "heatshielded": [false, true, true, true, false, false],
+        "raptor_config": {
+            "vac": [false, false, false],
+            "sea": [false, false, false]
+        }
     },
     {
         "serialnumber": "S24",
@@ -72,6 +100,13 @@
         "orb-flights":0,
         "landings": 0,
         "booster_nr": 10,
-        "img": null
+        "img": null,
+        "img_source": "by SpaceX",
+        "parts": [false, false, false, false, false, false],
+        "heatshielded": [false, true, true, true, false, false],
+        "raptor_config": {
+            "vac": [false, false, false],
+            "sea": [false, false, false]
+        }
     }
 ]
