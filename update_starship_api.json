@@ -20,5 +20,27 @@
             "vac": [true, true, false],
             "sea": [true, true, false]
         }
+    },
+    {
+        "serialnumber": "STest_2",
+        "status": "Testing",
+        "cryo_proof": 1,
+        "static_fire": 2,
+        "raptors": "3/3",
+        "raptors_vac": "4/6",
+        "location": "Launch Site",
+        "heatshield_installed": true,
+        "sub-flights": 0,
+        "orb-flights":0,
+        "landings": 0,
+        "booster_nr": 8,
+        "img": "https://pbs.twimg.com/media/FEBFQ9_UUAgv0LQ?format=jpg&name=4096x4096",
+        "img_source": "by Lennart",
+        "parts": [false, true, true, true, false, true],
+        "heatshielded": [false, true, true, true, false, true],
+        "raptor_config": {
+            "vac": [true, false, false, true, true, false],
+            "sea": [true, true, false]
+        }
     }
 ]
