@@ -64,7 +64,7 @@
         "orb-flights":0,
         "landings": 0,
         "starship_nr": 21,
-        "img": null,
+        "img": "",
         "img_source": "by SpaceX",
         "parts": [false, false, false],
         "raptor_config": [false, false, false, false, false, false, false, false, false, 

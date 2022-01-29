@@ -56,8 +56,8 @@
         "orb-flights":0,
         "landings": 0,
         "booster_nr": 8,
-        "img": null,
-        "img_source": "by SpaceX",
+        "img": "",
+        "img_source": "",
         "parts": [false, false, false, false],
         "heatshielded": [false, true, true, true, false, false],
         "raptor_config": {
@@ -78,8 +78,8 @@
         "orb-flights":0,
         "landings": 0,
         "booster_nr": 9,
-        "img": null,
-        "img_source": "by SpaceX",
+        "img": "",
+        "img_source": "",
         "parts": [false, false, false, false],
         "heatshielded": [false, true, true, true, false, false],
         "raptor_config": {
@@ -100,8 +100,8 @@
         "orb-flights":0,
         "landings": 0,
         "booster_nr": 10,
-        "img": null,
-        "img_source": "by SpaceX",
+        "img": "",
+        "img_source": "",
         "parts": [false, false, false, false],
         "heatshielded": [false, true, true, true, false, false],
         "raptor_config": {
