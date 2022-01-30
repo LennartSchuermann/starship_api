@@ -35,7 +35,7 @@
         "landings": 0,
         "booster_nr": 7,
         "img": "https://pbs.twimg.com/media/FE_InEVWUAUJvSc?format=jpg&name=4096x4096",
-        "img_source": "by SpaceX",
+        "img_source": "by RGV A.P.",
         "parts": [false, true, false, false],
         "heatshielded": [false, true, true, true, false, false],
         "raptor_config": {
