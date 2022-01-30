@@ -2,6 +2,7 @@
     {
         "serialnumber": "B4",
         "status": "Testing",
+        "purpose": "First Orbital Flight",
         "cryo_proof": 4,
         "static_fire": 0,
         "raptors": "29/29",
@@ -20,6 +21,7 @@
     {
         "serialnumber": "B5",
         "status": "Scrapped",
+        "purpose": "Pathfinder",
         "cryo_proof": 0,
         "static_fire": 0,
         "raptors": "-",
@@ -38,6 +40,7 @@
     {
         "serialnumber": "B6",
         "status": "Test Tank",
+        "purpose": "Tank For Testing",
         "cryo_proof": 0,
         "static_fire": 0,
         "raptors": "-",
@@ -56,6 +59,7 @@
     {
         "serialnumber": "B7",
         "status": "Under Construction",
+        "purpose": "?",
         "cryo_proof": 0,
         "static_fire": 0,
         "raptors": "0/33",
@@ -74,6 +78,7 @@
     {
         "serialnumber": "B8",
         "status": "Under Construction",
+        "purpose": "?",
         "cryo_proof": 0,
         "static_fire": 0,
         "raptors": "0/33",
