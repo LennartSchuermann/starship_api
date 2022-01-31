@@ -113,5 +113,28 @@
             "vac": [false, false, false, false, false, false],
             "sea": [false, false, false]
         }
+    },
+    {
+        "serialnumber": "S TEST",
+        "status": "Under Construction",
+        "purpose": "TEST API",
+        "cryo_proof": 0,
+        "static_fire": 0,
+        "raptors": "0/3",
+        "raptors_vac": "0/6",
+        "location": "Build Site",
+        "heatshield_installed": false,
+        "sub-flights": 0,
+        "orb-flights":0,
+        "landings": 0,
+        "booster_nr": 10,
+        "img": "",
+        "img_source": "",
+        "parts": [false, false, false, false],
+        "heatshielded": [false, true, true, true, false, false],
+        "raptor_config": {
+            "vac": [false, true, false, true, true, false],
+            "sea": [true, false, true]
+        }
     }
 ]
