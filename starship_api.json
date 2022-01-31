@@ -87,7 +87,7 @@
         "parts": [false, false, false, false],
         "heatshielded": [false, true, true, true, false, false],
         "raptor_config": {
-            "vac": [false, false, false],
+            "vac": [false, false, false, false, false, false],
             "sea": [false, false, false]
         }
     },
@@ -110,7 +110,7 @@
         "parts": [false, false, false, false],
         "heatshielded": [false, true, true, true, false, false],
         "raptor_config": {
-            "vac": [false, false, false],
+            "vac": [false, false, false, false, false, false],
             "sea": [false, false, false]
         }
     }
