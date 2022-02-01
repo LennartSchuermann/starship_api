@@ -2,6 +2,7 @@
     {
         "serialnumber": "B4",
         "status": "Testing",
+        "isFleet": true,
         "purpose": "First Orbital Flight",
         "cryo_proof": 4,
         "static_fire": 0,
@@ -21,6 +22,7 @@
     {
         "serialnumber": "B5",
         "status": "Scrapped",
+        "isFleet": false,
         "purpose": "Pathfinder",
         "cryo_proof": 0,
         "static_fire": 0,
@@ -40,6 +42,7 @@
     {
         "serialnumber": "B6",
         "status": "Test Tank",
+        "isFleet": false,
         "purpose": "Tank For Testing",
         "cryo_proof": 0,
         "static_fire": 0,
@@ -59,6 +62,7 @@
     {
         "serialnumber": "B7",
         "status": "Under Construction",
+        "isFleet": false,
         "purpose": "?",
         "cryo_proof": 0,
         "static_fire": 0,
@@ -78,6 +82,7 @@
     {
         "serialnumber": "B8",
         "status": "Under Construction",
+        "isFleet": false,
         "purpose": "?",
         "cryo_proof": 0,
         "static_fire": 0,

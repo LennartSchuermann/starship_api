@@ -2,6 +2,7 @@
     {
         "serialnumber": "S20",
         "status": "Testing",
+        "isFleet": true,
         "purpose": "First Orbital Flight",
         "cryo_proof": 1,
         "static_fire": 4,
@@ -25,6 +26,7 @@
     {
         "serialnumber": "S21",
         "status": "Under Construction",
+        "isFleet": false,
         "purpose": "?",
         "cryo_proof": 0,
         "static_fire": 0,
@@ -48,6 +50,7 @@
     {
         "serialnumber": "S22",
         "status": "Under Construction",
+        "isFleet": false,
         "purpose": "?",
         "cryo_proof": 0,
         "static_fire": 0,
@@ -71,6 +74,7 @@
     {
         "serialnumber": "S23",
         "status": "Under Construction",
+        "isFleet": false,
         "purpose": "?",
         "cryo_proof": 0,
         "static_fire": 0,
@@ -94,6 +98,7 @@
     {
         "serialnumber": "S24",
         "status": "Under Construction",
+        "isFleet": false,
         "purpose": "?",
         "cryo_proof": 0,
         "static_fire": 0,
