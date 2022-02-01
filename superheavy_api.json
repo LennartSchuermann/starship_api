@@ -91,7 +91,7 @@
         "img": "",
         "img_source": "",
         "parts": [false, false, false],
-        "sea_raptors": [false, false, false],
+        "sea_raptors": [true, false, true],
         "raptor_config": 33
     }
 ]
