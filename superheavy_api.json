@@ -15,9 +15,8 @@
         "img": "https://storage.googleapis.com/nextspaceflight/media/Booster_4.jpg",
         "img_source": "by SpaceX",
         "parts": [true, true, true],
-        "raptor_config": [true, true, true, true, true, true, true, true, true, 
-            true, true, true, true, true, true, true, true, true, true, true, 
-            true, true, true, true, true, true, true, true, true]
+        "sea_raptors": [true, true, true],
+        "raptor_config": 29
     },
     {
         "serialnumber": "B5",
@@ -35,9 +34,8 @@
         "img": "https://pbs.twimg.com/media/FE_JOq7WQAMxcnZ?format=jpg&name=4096x4096",
         "img_source": "by RGV A.P.",
         "parts": [true, false, true],
-        "raptor_config": [false, false, false, false, false, false, false, false, false, 
-            false, false, false, false, false, false, false, false, false, false, false, 
-            false, false, false, false, false, false, false, false, false]
+        "sea_raptors": [false, false, false],
+        "raptor_config": 29
     },
     {
         "serialnumber": "B6",
@@ -55,9 +53,8 @@
         "img": "https://pbs.twimg.com/media/FGquoipWUAEKrH9?format=jpg&name=large",
         "img_source": "by NSF",
         "parts": [false, false, false],
-        "raptor_config": [false, false, false, false, false, false, false, false, false, 
-            false, false, false, false, false, false, false, false, false, false, false, 
-            false, false, false, false, false, false, false, false, false]
+        "sea_raptors": [false, false, false],
+        "raptor_config": 29
     },
     {
         "serialnumber": "B7",
@@ -75,9 +72,8 @@
         "img": "",
         "img_source": "",
         "parts": [true, false, false],
-        "raptor_config": [false, false, false, false, false, false, false, false, false, 
-            false, false, false, false, false, false, false, false, false, false, false, 
-            false, false, false, false, false, false, false, false, false, false, false, false, false]
+        "sea_raptors": [false, false, false],
+        "raptor_config": 33
     },
     {
         "serialnumber": "B8",
@@ -95,8 +91,7 @@
         "img": "",
         "img_source": "",
         "parts": [false, false, false],
-        "raptor_config": [false, false, false, false, false, false, false, false, false, 
-            false, false, false, false, false, false, false, false, false, false, false, 
-            false, false, false, false, false, false, false, false, false, false, false, false, false]
+        "sea_raptors": [false, false, false],
+        "raptor_config": 33
     }
 ]
