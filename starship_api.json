@@ -2,7 +2,7 @@
     {
         "serialnumber": "S20",
         "status": "Testing",
-        "isFleet": true,
+        "isFleet": false,
         "purpose": "First Orbital Flight",
         "cryo_proof": 1,
         "static_fire": 4,
@@ -26,7 +26,7 @@
     {
         "serialnumber": "S21",
         "status": "Under Construction",
-        "isFleet": false,
+        "isFleet": true,
         "purpose": "?",
         "cryo_proof": 0,
         "static_fire": 0,
