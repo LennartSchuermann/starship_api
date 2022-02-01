@@ -1,12 +1,15 @@
-Release:30.09.21 - [Last Data-Update: 31.01.22]
+[Last Data-Update: 01.02.22]
+
 This API is only for the "Launch" & "TANK WATCHER" Applications by the author. 
 Using it for your purpose without permission will not be tolerated.
 
-Applications: 
-- LAUNCH:
+Applications:
+- LAUNCH: [Release: 30.09.21]
 Android: https://play.google.com/store/apps/details?id=io.nucleon.launch
-IOS: Coming soon
-- TANK WATCHER:
-Coming soon
+IOS: -
+
+- TANK WATCHER: [Release: soon]
+Android: Coming soon
+IOS: -
 
 Author: Lennart Schürmann, Nucleon Interactive
