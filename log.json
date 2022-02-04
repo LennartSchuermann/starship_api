@@ -1,7 +1,11 @@
 [
     {
+        "date": "03.02.22",
+        "changes": ["GSE 4's Stand Moved to the Production Site", "Load Spreader Connected to Booster 7's Methane Tank"]
+    },
+    {
         "date": "02.02.22",
-        "changes": ["B4 Hooked Up (to LR11000)", "GSE 4 Remains Are Scrapped"]
+        "changes": ["B4 Hooked Up (To LR11000)", "GSE 4 Remains Are Scrapped"]
     },
     {
         "date": "01.02.22",
