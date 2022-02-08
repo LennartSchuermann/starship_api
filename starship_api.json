@@ -64,7 +64,7 @@
         "booster_nr": 8,
         "img": "",
         "img_source": "",
-        "parts": [false, false, false, false],
+        "parts": [false, true, false, false],
         "heatshielded": [false, true, true, true, false, false],
         "raptor_config": {
             "vac": [false, false, false],
