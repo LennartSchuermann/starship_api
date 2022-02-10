@@ -1,7 +1,7 @@
 [
     {
         "serialnumber": "B4",
-        "status": "Testing",
+        "status": "Stacked",
         "isFleet": true,
         "purpose": "First Orbital Flight",
         "cryo_proof": 3,
