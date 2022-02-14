@@ -1,6 +1,6 @@
-[Last Data-Update: 12.02.22]
+[Last Data-Update: 14.02.22]
 
-This API is only for the "Launch" & "TANK WATCHER" Applications by the author. 
+This API is only for the "Launch" & "PROJECT STARSHIP" Applications by the author. 
 Using it for your purpose without permission will not be tolerated.
 
 Applications:
@@ -8,7 +8,7 @@ Applications:
 Android: https://play.google.com/store/apps/details?id=io.nucleon.launch
 IOS: -
 
-- TANK WATCHER: [Release: soon]
+- PROJECT STARSHIP: [Release: soon]
 Android: Coming soon
 IOS: -
 
