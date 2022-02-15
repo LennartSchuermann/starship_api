@@ -1,7 +1,7 @@
 [
     {
         "serialnumber": "B4",
-        "status": "Stacked",
+        "status": "Testing",
         "isFleet": true,
         "purpose": "First Orbital Flight",
         "cryo_proof": 3,
@@ -64,7 +64,7 @@
         "cryo_proof": 0,
         "static_fire": 0,
         "raptors": "0/33",
-        "location": "Highbay",
+        "location": "Mid-/Highbay",
         "sub-flights": 0,
         "orb-flights":0,
         "landings": 0,

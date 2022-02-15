@@ -1,9 +1,9 @@
 [
     {
         "serialnumber": "S20",
-        "status": "Stacked",
+        "status": "Testing",
         "isFleet": true,
-        "purpose": "First Orbital Flight",
+        "purpose": "Launch Site",
         "cryo_proof": 1,
         "static_fire": 4,
         "raptors": "3/3",
@@ -56,7 +56,7 @@
         "static_fire": 0,
         "raptors": "0/3",
         "raptors_vac": "0/3",
-        "location": "Midbay",
+        "location": "Highbay",
         "heatshield_installed": false,
         "sub-flights": 0,
         "orb-flights":0,
@@ -64,7 +64,7 @@
         "booster_nr": 8,
         "img": "",
         "img_source": "",
-        "parts": [false, true, false, false],
+        "parts": [false, true, true, false],
         "heatshielded": [false, true, true, true, false, false],
         "raptor_config": {
             "vac": [false, false, false],
@@ -97,6 +97,30 @@
     },
     {
         "serialnumber": "S24",
+        "status": "Under Construction",
+        "isFleet": false,
+        "purpose": "?",
+        "cryo_proof": 0,
+        "static_fire": 0,
+        "raptors": "0/3",
+        "raptors_vac": "0/6",
+        "location": "Build Site",
+        "heatshield_installed": false,
+        "sub-flights": 0,
+        "orb-flights":0,
+        "landings": 0,
+        "booster_nr": 10,
+        "img": "",
+        "img_source": "",
+        "parts": [false, false, false, false],
+        "heatshielded": [false, true, true, true, false, false],
+        "raptor_config": {
+            "vac": [false, false, false, false, false, false],
+            "sea": [false, false, false]
+        }
+    },
+    {
+        "serialnumber": "S25",
         "status": "Under Construction",
         "isFleet": false,
         "purpose": "?",
