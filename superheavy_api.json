@@ -32,7 +32,7 @@
         "landings": 0,
         "starship_nr": 0,
         "img": "https://pbs.twimg.com/media/FE_JOq7WQAMxcnZ?format=jpg&name=4096x4096",
-        "img_source": "by RGV A.P.",
+        "img_source": "@RGVaerialphotos",
         "parts": [true, false, true],
         "sea_raptors": [false, false, false],
         "raptor_config": 29
@@ -51,7 +51,7 @@
         "landings": 0,
         "starship_nr": 0,
         "img": "https://pbs.twimg.com/media/FGquoipWUAEKrH9?format=jpg&name=large",
-        "img_source": "by NSF",
+        "img_source": "@NASASpaceflight",
         "parts": [false, false, false],
         "sea_raptors": [false, false, false],
         "raptor_config": 29
