@@ -1,4 +1,4 @@
-[Last Data-Update: 15.02.22]
+[Last Data-Update: 16.02.22]
 
 This API is only for the "Launch" & "PROJECT STARSHIP" Applications by the author. 
 Using it for your purpose without permission will not be tolerated.
@@ -9,7 +9,7 @@ Android: https://play.google.com/store/apps/details?id=io.nucleon.launch
 IOS: -
 
 - PROJECT STARSHIP: [Release: soon]
-Android: Coming soon
+Android: https://play.google.com/store/apps/details?id=com.nucleon.tankwatcher
 IOS: -
 
 Author: Lennart Schürmann, Nucleon Interactive
