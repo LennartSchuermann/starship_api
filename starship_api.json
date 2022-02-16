@@ -17,7 +17,7 @@
         "img": "https://pbs.twimg.com/media/FEBFQ9_UUAgv0LQ?format=jpg&name=4096x4096",
         "img_source": "by SpaceX",
         "parts": [true, true, true, true],
-        "heatshielded": [false, true, true, true, false, true],
+        "heatshielded": [true, true, true, true],
         "raptor_config": {
             "vac": [true, true, true],
             "sea": [true, true, true]
@@ -41,7 +41,7 @@
         "img": "https://pbs.twimg.com/media/FE_InEVWUAUJvSc?format=jpg&name=4096x4096",
         "img_source": "@RGVaerialphotos",
         "parts": [false, true, false, false],
-        "heatshielded": [false, true, true, true, false, false],
+        "heatshielded": [false, false, false, false],
         "raptor_config": {
             "vac": [false, false, false],
             "sea": [false, false, false]
@@ -64,8 +64,8 @@
         "booster_nr": 8,
         "img": "https://pbs.twimg.com/media/FLqnQkgXwAAM29m?format=jpg&name=4096x4096",
         "img_source": "@StarshipGazer",
-        "parts": [false, true, true, false],
-        "heatshielded": [false, true, true, true, false, false],
+        "parts": [false, true, true, true],
+        "heatshielded": [false, false, false, false],
         "raptor_config": {
             "vac": [false, false, false],
             "sea": [false, false, false]
@@ -89,7 +89,7 @@
         "img": "",
         "img_source": "",
         "parts": [false, false, false, false],
-        "heatshielded": [false, true, true, true, false, false],
+        "heatshielded": [false, false, false, false],
         "raptor_config": {
             "vac": [false, false, false, false, false, false],
             "sea": [false, false, false]
@@ -113,7 +113,7 @@
         "img": "",
         "img_source": "",
         "parts": [false, false, false, false],
-        "heatshielded": [false, true, true, true, false, false],
+        "heatshielded": [false, false, false, false],
         "raptor_config": {
             "vac": [false, false, false, false, false, false],
             "sea": [false, false, false]
@@ -137,7 +137,7 @@
         "img": "",
         "img_source": "",
         "parts": [false, false, false, false],
-        "heatshielded": [false, true, true, true, false, false],
+        "heatshielded": [false, false, false, false],
         "raptor_config": {
             "vac": [false, false, false, false, false, false],
             "sea": [false, false, false]
