@@ -8,7 +8,7 @@ Applications:
 Android: https://play.google.com/store/apps/details?id=io.nucleon.launch
 IOS: -
 
-- PROJECT STARSHIP: [Release: soon]
+- PROJECT STARSHIP: [Release: 12.02.22]
 Android: https://play.google.com/store/apps/details?id=com.nucleon.tankwatcher
 IOS: -
 
