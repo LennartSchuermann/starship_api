@@ -4,7 +4,7 @@
         "status": "Testing",
         "isFleet": true,
         "purpose": "First Orbital Flight",
-        "cryo_proof": 1,
+        "cryo_proof": 2,
         "static_fire": 4,
         "raptors": "3/3",
         "raptors_vac": "3/3",
