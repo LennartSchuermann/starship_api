@@ -4,7 +4,7 @@
         "status": "Testing",
         "isFleet": true,
         "purpose": "First Orbital Flight",
-        "cryo_proof": 3,
+        "cryo_proof": 4,
         "static_fire": 0,
         "raptors": "29/29",
         "location": "Orbital Launch Mount",
@@ -20,7 +20,7 @@
     },
     {
         "serialnumber": "B5",
-        "status": "Scrapped",
+        "status": "Parking",
         "isFleet": false,
         "purpose": "Pathfinder",
         "cryo_proof": 0,
