@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Orbital Test Flight I",
+        "date": "April (TBD)",
+        "location": "Boca Chica",
+        "isDone": false
+    },
+    {
+        "title": "POLARIS MISSION III",
+        "date": "(TBD)",
+        "location": "(TBD)",
+        "isDone": false
+    }
+]
