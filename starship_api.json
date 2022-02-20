@@ -56,7 +56,7 @@
         "static_fire": 0,
         "raptors": "0/3",
         "raptors_vac": "0/3",
-        "location": "Highbay",
+        "location": "Build Site",
         "heatshield_installed": false,
         "sub-flights": 0,
         "orb-flights":0,
@@ -64,7 +64,7 @@
         "booster_nr": 8,
         "img": "https://pbs.twimg.com/media/FLqnQkgXwAAM29m?format=jpg&name=4096x4096",
         "img_source": "@StarshipGazer",
-        "parts": [false, true, true, true],
+        "parts": [true, true, true, true],
         "heatshielded": [false, false, false, false],
         "raptor_config": {
             "vac": [false, false, false],
