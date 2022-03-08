@@ -1,5 +1,9 @@
 [
     {
+        "date": "07.03.22",
+        "changes": ["Potential Payload Dispenser Lifted into S24's Nosecone Barrel"]
+    },
+    {
         "date": "01.03.22",
         "changes": ["LOX Delivery to the OTF", "B4 Cryo Proof"]
     },
