@@ -1,5 +1,13 @@
 [
     {
+        "date": "12.03.22",
+        "changes": ["B8 Stacking Begins"]
+    },
+    {
+        "date": "11.03.22",
+        "changes": ["B7 Fully Stacked"]
+    },
+    {
         "date": "07.03.22",
         "changes": ["Potential Payload Dispenser Lifted into S24's Nosecone Barrel"]
     },
