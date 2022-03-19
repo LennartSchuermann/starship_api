@@ -1,5 +1,9 @@
 [
     {
+        "date": "18.03.22",
+        "changes": ["Full Stack Propellant Load Testing"]
+    },
+    {
         "date": "17.03.22",
         "changes": ["Full Stack Cryogenic Proof Test"]
     },
