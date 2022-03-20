@@ -8,7 +8,7 @@
         "static_fire": 4,
         "raptors": "3/3",
         "raptors_vac": "3/3",
-        "location": "Orbital Launch Mount",
+        "location": "Launch Site",
         "heatshield_installed": true,
         "sub-flights": 0,
         "orb-flights":0,
