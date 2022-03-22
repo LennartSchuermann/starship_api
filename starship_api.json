@@ -3,7 +3,7 @@
         "serialnumber": "S20",
         "status": "Testing",
         "isFleet": true,
-        "purpose": "First Orbital Flight",
+        "purpose": "-",
         "cryo_proof": 6,
         "static_fire": 4,
         "raptors": "3/3",
