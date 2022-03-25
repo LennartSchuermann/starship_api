@@ -1,5 +1,9 @@
 [
     {
+        "date": "24.03.22",
+        "changes": ["B4 Lifted From the Orbital Launch Mount"]
+    },
+    {
         "date": "19.03.22",
         "changes": ["LOX and LN2 Deliveries to the OTF", "S20 De-stacked From B4"]
     },
