@@ -1,11 +1,11 @@
 [
     {
         "date": "18.03.22",
-        "changes": ["Full Stack Propellant Load Testing"]
+        "changes": ["Full Stack Propellant Load"]
     },
     {
         "date": "17.03.22",
-        "changes": ["Full Stack Cryogenic Proof Test"]
+        "changes": ["Full Stack Cryo Proof"]
     },
     {
         "date": "01.03.22",
@@ -13,7 +13,7 @@
     },
     {
         "date": "22.02.22",
-        "changes": ["S20 Cryo Proof Tested"]
+        "changes": ["S20 Cryo Proof"]
     },
     {
         "date": "19.02.22",
@@ -25,7 +25,7 @@
     },
     {
         "date": "16.02.22",
-        "changes": ["S20 Cryo Proof Tested"]
+        "changes": ["S20 Cryo Proof"]
     },
     {
         "date": "10.02.22",
@@ -33,6 +33,6 @@
     },
     {
         "date": "30.01.22",
-        "changes": ["Chopsticks Raised With Load Test Bags"]
+        "changes": ["Chopsticks Raised (Load)"]
     }
 ]
