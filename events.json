@@ -1,7 +1,7 @@
 [
     {
         "title": "Orbital Test Flight I",
-        "date": "April (TBD)",
+        "date": "Mai (TBD)",
         "location": "Boca Chica",
         "isDone": false
     },
@@ -9,6 +9,6 @@
         "title": "POLARIS MISSION III",
         "date": "(TBD)",
         "location": "(TBD)",
-        "isDone": false
+        "isDone": true
     }
 ]
