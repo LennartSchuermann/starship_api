@@ -62,8 +62,8 @@
         "orb-flights":0,
         "landings": 0,
         "booster_nr": 8,
-        "img": "https://pbs.twimg.com/media/FLqnQkgXwAAM29m?format=jpg&name=4096x4096",
-        "img_source": "@StarshipGazer",
+        "img": "https://pbs.twimg.com/media/FNiuVk2WQAQumzy?format=jpg&name=medium",
+        "img_source": "(Middle) @RGVaerialphotos",
         "parts": [true, true, true, true],
         "heatshielded": [false, false, false, false],
         "raptor_config": {
@@ -110,8 +110,8 @@
         "orb-flights":0,
         "landings": 0,
         "booster_nr": 10,
-        "img": "",
-        "img_source": "",
+        "img": "https://pbs.twimg.com/media/FNszD1oXwAEAda8?format=jpg&name=large",
+        "img_source": "@StarshipGazer",
         "parts": [false, false, false, false],
         "heatshielded": [false, false, false, false],
         "raptor_config": {

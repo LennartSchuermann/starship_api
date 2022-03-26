@@ -69,8 +69,8 @@
         "orb-flights":0,
         "landings": 0,
         "starship_nr": 21,
-        "img": "",
-        "img_source": "",
+        "img": "https://pbs.twimg.com/media/FOuFDxxXwAgg4a4?format=jpg&name=large",
+        "img_source": "@StarshipGazer",
         "parts": [true, false, false],
         "sea_raptors": [false, false, false],
         "raptor_config": 33
