@@ -1,13 +1,5 @@
 [
     {
-        "date": "24.03.22",
-        "changes": ["B4 Lifted From the Orbital Launch Mount"]
-    },
-    {
-        "date": "19.03.22",
-        "changes": ["LOX and LN2 Deliveries to the OTF", "S20 De-stacked From B4"]
-    },
-    {
         "date": "18.03.22",
         "changes": ["Full Stack Propellant Load Testing"]
     },
@@ -16,127 +8,31 @@
         "changes": ["Full Stack Cryogenic Proof Test"]
     },
     {
-        "date": "16.03.22",
-        "changes": ["Ship 20 Lifted Onto Booster 4 for the Third Time"]
-    },
-    {
-        "date": "12.03.22",
-        "changes": ["B8 Stacking Begins"]
-    },
-    {
-        "date": "11.03.22",
-        "changes": ["B7 Fully Stacked"]
-    },
-    {
-        "date": "07.03.22",
-        "changes": ["Potential Payload Dispenser Lifted into S24's Nosecone Barrel"]
-    },
-    {
         "date": "01.03.22",
-        "changes": ["LOX Delivery to the OTF", "B4 Cryo Proof"]
-    },
-    {
-        "date": "28.02.22",
-        "changes": ["Deimos Oil Rig Leaves Port of Brownsville"]
-    },
-    {
-        "date": "27.02.22",
-        "changes": ["Liquid Nitrogen Deliveries to the OTF"]
-    },
-    {
-        "date": "25.02.22",
-        "changes": ["Stacking of S24 Begins in the HB", "Liquid Nitrogen Deliveries to the OTF"]
-    },
-    {
-        "date": "24.02.22",
-        "changes": ["Five New Methane Tanks Lifted Into Place at the OTF"]
+        "changes": ["B4 Cryo Proof"]
     },
     {
         "date": "22.02.22",
         "changes": ["S20 Cryo Proof Tested"]
     },
     {
-        "date": "18/19.02.22",
-        "changes": ["Ship 22's Aft Flaps Installed", "B4 Cryo Proof"]
+        "date": "19.02.22",
+        "changes": ["B4 Cryo Proof"]
     },
     {
         "date": "17.02.22",
-        "changes": ["Methane Deliveries to the OTF", "A New Wide Bay Section is Lifted Into Place", "S20 Cryo Proof Tested"]
+        "changes": ["S20 Cryo Proof"]
     },
     {
         "date": "16.02.22",
         "changes": ["S20 Cryo Proof Tested"]
     },
     {
-        "date": "15.02.22",
-        "changes": ["Methane & Nitrogen Deliveries to the OTF", "S22 Nosecone Welded to its Tank Section", "LR11000 (Widebay) Crane has been extended (by 12m)"]
-    },
-    {
-        "date": "14.02.22",
-        "changes": ["Ship 20 and Booster 4 Destacked", "Nosecone Lowered Onto S22"]
-    },
-    {
-        "date": "13.02.22",
-        "changes": ["Methane Delivered to the OTF"]
-    },
-    {
-        "date": "11.02.22",
-        "changes": ["Chopstick Raised", "Crews Work on a Staircase"]
-    },
-    {
         "date": "10.02.22",
-        "changes": ["Starhip Presentation", "Crews Work On OLT & Vehicles"]
-    },
-    {
-        "date": "09.02.22",
-        "changes": ["S20 Got Stacked on B4 (by Chopsticks)"]
-    },
-    {
-        "date": "08.02.22",
-        "changes": ["Scaffolding Removed From the Launch Tower & Chopsticks", "B6 & B2.1 Test Tank Moved", "Ship 20 Moved into Position", "Ship 20 Awaiting Its Lift"]
-    },
-    {
-        "date": "07.02.22",
-        "changes": ["Crews Work on the QD Arm", "Booster Transport Stand Moved", "Wide Bay Parts Delivered"]
-    },
-    {
-        "date": "06.02.22",
-        "changes": ["Booster 4 Lifted Onto the Orbital Launch Mount", "Bridge Crane Delivered to the Production Site", "Booster Quick Disconnect connected to Booster 4"]
-    },
-    {
-        "date": "05.02.22",
-        "changes": ["Booster 4 and SpaceX Crane Moved to the Orbital Launch Mount", "Chopsticks Test (Raised and Then Lowered)"]
-    },
-    {
-        "date": "04.02.22",
-        "changes": ["Crews Work on a New Structure", "Venting From the OTF", "Liquid Nitrogen Deliveries to the OTF", "Wide Bay Parts Delivered", "SPMT Ballast Moved to the Launch Site"]
-    },
-    {
-        "date": "03.02.22",
-        "changes": ["GSE 4's Stand Moved to the Production Site", "Load Spreader Connected to Booster 7's Methane Tank"]
-    },
-    {
-        "date": "02.02.22",
-        "changes": ["B4 Hooked Up (To LR11000)", "GSE 4 Remains Are Scrapped"]
-    },
-    {
-        "date": "01.02.22",
-        "changes": ["A New Section is Lifted for the New High Bay", "Booster 4’s Grid Fins Unstrapped", "Ship 22’s Raceway Installed in the Mid Bay"]
-    },
-    {
-        "date": "31.01.22",
-        "changes": ["Load Test Bags Removed From The Chopsticks", "Crane Ballast and Counterweight Cradle Delivered"]
+        "changes": ["Starhip Presentation"]
     },
     {
         "date": "30.01.22",
-        "changes": ["Chopsticks Raised With Load Test Bags Attached"]
-    },
-    {
-        "date": "29.01.22",
-        "changes": ["Section of the Wide Bay Lifted Into Place", "Nitrogen Delivery (To OTF)"]
-    },
-    {
-        "date": "28.01.22",
-        "changes": ["OTF Venting"]
+        "changes": ["Chopsticks Raised With Load Test Bags"]
     }
 ]
