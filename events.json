@@ -10,5 +10,11 @@
         "date": "(TBD)",
         "location": "(TBD)",
         "isDone": false
+    },
+    {
+        "title": "ARTEMIS III",
+        "date": "2025 (TBD)",
+        "location": "(TBD)",
+        "isDone": false
     }
 ]
