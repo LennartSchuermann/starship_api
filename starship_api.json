@@ -112,8 +112,8 @@
         "booster_nr": 10,
         "img": "https://pbs.twimg.com/media/FNszD1oXwAEAda8?format=jpg&name=large",
         "img_source": "@StarshipGazer",
-        "parts": [false, false, false, false],
-        "heatshielded": [false, false, false, false],
+        "parts": [false, false, true, true],
+        "heatshielded": [false, false, true, true],
         "raptor_config": {
             "vac": [false, false, false, false, false, false],
             "sea": [false, false, false]
