@@ -1,7 +1,11 @@
 [
     {
-        "date": "07.05.22",
+        "date": "10.05.22",
         "changes": ["Data Update Puffer"]
+    },
+    {
+        "date": "09.05.22",
+        "changes": ["B7 Cryo Proof"]
     },
     {
         "date": "30.04.22",
