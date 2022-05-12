@@ -61,7 +61,7 @@
         "status": "Under Construction",
         "isFleet": true,
         "purpose": "First Orbital Test Flight",
-        "cryo_proof": 3,
+        "cryo_proof": 4,
         "static_fire": 0,
         "raptors": "0/33",
         "location": "Orbital Launch Mount",
