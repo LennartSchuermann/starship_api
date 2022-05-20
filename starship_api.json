@@ -104,7 +104,7 @@
         "static_fire": 0,
         "raptors": "0/3",
         "raptors_vac": "0/6",
-        "location": "Midbay",
+        "location": "Highbay",
         "heatshield_installed": false,
         "sub-flights": 0,
         "orb-flights":0,
@@ -112,7 +112,7 @@
         "booster_nr": 10,
         "img": "https://pbs.twimg.com/media/FNszD1oXwAEAda8?format=jpg&name=large",
         "img_source": "@StarshipGazer",
-        "parts": [false, true, true, true],
+        "parts": [true, true, true, true],
         "heatshielded": [false, false, true, true],
         "raptor_config": {
             "vac": [false, false, false, false, false, false],

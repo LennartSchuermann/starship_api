@@ -1,4 +1,4 @@
-[Last Data-Update: 15.05.22]
+[Last Data-Update: 20.05.22]
 
 This API is only for the "Launch" & "PROJECT STARSHIP" Applications by the author. 
 Using it for your purpose without permission will not be tolerated.
