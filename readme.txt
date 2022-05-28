@@ -10,6 +10,6 @@ IOS: -
 
 - PROJECT STARSHIP: [Release: 12.02.22]
 Android: https://play.google.com/store/apps/details?id=com.nucleon.tankwatcher
-IOS: -
+IOS: coming soon
 
 Author: Lennart Schürmann, Nucleon Interactive
