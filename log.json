@@ -1,7 +1,11 @@
 [
     {
-        "date": "10.06.22",
+        "date": "15.06.22",
         "changes": ["Data Update Puffer"]
+    },
+    {
+        "date": "13.06.22",
+        "changes": ["FAA announced Mitigated FONSI"]
     },
     {
         "date": "07.06.22",
