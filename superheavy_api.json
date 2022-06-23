@@ -71,8 +71,8 @@
         "starship_nr": 24,
         "img": "https://pbs.twimg.com/media/FOuFDxxXwAgg4a4?format=jpg&name=large",
         "img_source": "@StarshipGazer",
-        "parts": [true, true, false],
-        "sea_raptors": [true, false, false],
+        "parts": [true, true, true],
+        "sea_raptors": [true, true, true],
         "raptor_config": 33
     },
     {
