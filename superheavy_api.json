@@ -76,6 +76,25 @@
         "raptor_config": 33
     },
     {
+        "serialnumber": "B7.1",
+        "status": "Test Tank",
+        "isFleet": false,
+        "purpose": "Tank For Testing",
+        "cryo_proof": 1,
+        "static_fire": 0,
+        "raptors": "-",
+        "location": "Sanchez Site",
+        "sub-flights": 0,
+        "orb-flights":0,
+        "landings": 0,
+        "starship_nr": 0,
+        "img": "https://pbs.twimg.com/media/FVpmAqpXsAAi2e8?format=jpg&name=4096x4096",
+        "img_source": "@StarshipGazer",
+        "parts": [true, false, false],
+        "sea_raptors": [false, false, false],
+        "raptor_config": 29
+    },
+    {
         "serialnumber": "B8",
         "status": "Under Construction",
         "isFleet": false,
