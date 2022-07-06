@@ -110,7 +110,7 @@
         "orb-flights":0,
         "landings": 0,
         "booster_nr": 7,
-        "img": "https://pbs.twimg.com/media/FNszD1oXwAEAda8?format=jpg&name=large",
+        "img": "https://pbs.twimg.com/media/FW3nIanXoAIVB8c?format=jpg&name=4096x4096",
         "img_source": "@StarshipGazer",
         "parts": [true, true, true, true],
         "heatshielded": [false, false, true, true],
