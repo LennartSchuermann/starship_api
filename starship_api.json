@@ -115,8 +115,8 @@
         "parts": [true, true, true, true],
         "heatshielded": [false, false, true, true],
         "raptor_config": {
-            "vac": [false, false, false],
-            "sea": [false, false, false]
+            "vac": [true, true, true],
+            "sea": [true, true, true]
         }
     },
     {
