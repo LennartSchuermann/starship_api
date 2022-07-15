@@ -1,7 +1,11 @@
 [
     {
-        "date": "09.07.22",
+        "date": "15.07.22",
         "changes": ["Data Update Puffer"]
+    },
+    {
+        "date": "11.07.22",
+        "changes": ["B7 Engine Test Anomaly"]
     },
     {
         "date": "28.05.22",
