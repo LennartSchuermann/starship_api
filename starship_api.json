@@ -1,14 +1,14 @@
 [
     {
         "serialnumber": "S20",
-        "status": "Testing",
+        "status": "Retired",
         "isFleet": false,
         "purpose": "-",
         "cryo_proof": 6,
         "static_fire": 4,
         "raptors": "3/3",
         "raptors_vac": "3/3",
-        "location": "Production Site",
+        "location": "Display Site",
         "heatshield_installed": true,
         "sub-flights": 0,
         "orb-flights":0,

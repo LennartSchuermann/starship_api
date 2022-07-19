@@ -20,7 +20,7 @@
     },
     {
         "serialnumber": "B5",
-        "status": "Parking",
+        "status": "Scrapped",
         "isFleet": false,
         "purpose": "Pathfinder",
         "cryo_proof": 0,
