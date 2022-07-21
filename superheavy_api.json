@@ -63,7 +63,7 @@
         "purpose": "First Orbital Test Flight",
         "cryo_proof": 5,
         "static_fire": 0,
-        "raptors": "33/33",
+        "raptors": "20/33",
         "location": "Megabay",
         "sub-flights": 0,
         "orb-flights":0,
@@ -72,7 +72,7 @@
         "img": "https://pbs.twimg.com/media/FOuFDxxXwAgg4a4?format=jpg&name=large",
         "img_source": "@StarshipGazer",
         "parts": [true, true, true],
-        "sea_raptors": [true, true, true],
+        "sea_raptors": [true, false, true],
         "raptor_config": 33
     },
     {
@@ -80,7 +80,7 @@
         "status": "Test Tank",
         "isFleet": false,
         "purpose": "Tank For Testing",
-        "cryo_proof": 1,
+        "cryo_proof": 2,
         "static_fire": 0,
         "raptors": "-",
         "location": "Launch Site",

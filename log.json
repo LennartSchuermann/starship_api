@@ -1,7 +1,11 @@
 [
     {
-        "date": "19.07.22",
+        "date": "21.07.22",
         "changes": ["Data Update Puffer"]
+    },
+    {
+        "date": "20.07.22",
+        "changes": ["S24 Spin Prime Testing"]
     },
     {
         "date": "18.07.22",
