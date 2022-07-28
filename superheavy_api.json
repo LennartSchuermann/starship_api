@@ -80,7 +80,7 @@
         "status": "Test Tank",
         "isFleet": false,
         "purpose": "Tank For Testing",
-        "cryo_proof": 1,
+        "cryo_proof": 2,
         "static_fire": 0,
         "raptors": "-",
         "location": "Launch Site",
