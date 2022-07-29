@@ -1,7 +1,11 @@
 [
     {
-        "date": "28.07.22",
+        "date": "29.07.22",
         "changes": ["Data Update Puffer"]
+    },
+    {
+        "date": "28.07.22",
+        "changes": ["S24 Flap Testing"]
     },
     {
         "date": "27.07.22",
